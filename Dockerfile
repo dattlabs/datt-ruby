@@ -1,2 +1,1 @@
-FROM datt/datt-base:latest
-MAINTAINER John Albietz <inthecloud247@gmail.com>
+./1.9.3/Dockerfile
